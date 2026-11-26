@@ -1,0 +1,3 @@
+[server]
+# First line of defence; keep in sync with src/config.py MAX_UPLOAD_MB
+maxUploadSize = 10

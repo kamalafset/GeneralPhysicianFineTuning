@@ -1,0 +1,600 @@
+{"patient_id": "P0001", "report_id": "R0001", "question": "What is my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0001", "report_id": "R0001", "question": "Should I be worried about my A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0001", "report_id": "R0001", "question": "What does my report say about red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0002", "report_id": "R0002", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0002", "report_id": "R0002", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0002", "report_id": "R0002", "question": "Should I be worried about my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0003", "report_id": "R0003", "question": "Should I be worried about my PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0003", "report_id": "R0003", "question": "Is my mean corpuscular volume normal?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0003", "report_id": "R0003", "question": "Explain my BUN result.", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0004", "report_id": "R0004", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0004", "report_id": "R0004", "question": "What does my report say about bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0004", "report_id": "R0004", "question": "Should I be worried about my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0005", "report_id": "R0005", "question": "What does my report say about estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0005", "report_id": "R0005", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0005", "report_id": "R0005", "question": "What is my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0006", "report_id": "R0006", "question": "What is my haemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0006", "report_id": "R0006", "question": "Is my MCV normal?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0006", "report_id": "R0006", "question": "Is my platelet count normal?", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0007", "report_id": "R0007", "question": "Should I be worried about my fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0007", "report_id": "R0007", "question": "Is my eAG normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0007", "report_id": "R0007", "question": "Should I be worried about my cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0008", "report_id": "R0008", "question": "What is my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0008", "report_id": "R0008", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0008", "report_id": "R0008", "question": "Is my red blood cell count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0009", "report_id": "R0009", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0009", "report_id": "R0009", "question": "What is my 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0009", "report_id": "R0009", "question": "Should I be worried about my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0010", "report_id": "R0010", "question": "Is my PCV normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0010", "report_id": "R0010", "question": "What does my report say about neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0010", "report_id": "R0010", "question": "What does my report say about fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0011", "report_id": "R0011", "question": "What does my report say about fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0011", "report_id": "R0011", "question": "Explain my RBC count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0011", "report_id": "R0011", "question": "Explain my platelets result.", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0012", "report_id": "R0012", "question": "What is my PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0012", "report_id": "R0012", "question": "What does my report say about mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0012", "report_id": "R0012", "question": "What is my eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0013", "report_id": "R0013", "question": "What is my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0013", "report_id": "R0013", "question": "Should I be worried about my LDL?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0013", "report_id": "R0013", "question": "What is my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0014", "report_id": "R0014", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0014", "report_id": "R0014", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0014", "report_id": "R0014", "question": "What does my report say about MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0015", "report_id": "R0015", "question": "Is my TSH normal?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0015", "report_id": "R0015", "question": "What is my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0015", "report_id": "R0015", "question": "Explain my A1c result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0016", "report_id": "R0016", "question": "What does my report say about eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0016", "report_id": "R0016", "question": "What does my report say about fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0016", "report_id": "R0016", "question": "Explain my red blood cell count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0017", "report_id": "R0017", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0017", "report_id": "R0017", "question": "What does my report say about fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0017", "report_id": "R0017", "question": "Is my MCHC normal?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0018", "report_id": "R0018", "question": "Should I be worried about my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0018", "report_id": "R0018", "question": "Should I be worried about my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0018", "report_id": "R0018", "question": "Explain my glycated hemoglobin result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0019", "report_id": "R0019", "question": "Explain my hematocrit result.", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0019", "report_id": "R0019", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0019", "report_id": "R0019", "question": "What does my report say about haemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0020", "report_id": "R0020", "question": "Is my total cholesterol normal?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0020", "report_id": "R0020", "question": "Is my triglycerides normal?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0020", "report_id": "R0020", "question": "Should I be worried about my A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0021", "report_id": "R0021", "question": "Is my red blood cell count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0021", "report_id": "R0021", "question": "What is my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0021", "report_id": "R0021", "question": "Explain my BUN result.", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0022", "report_id": "R0022", "question": "Is my hematocrit normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0022", "report_id": "R0022", "question": "Is my eAG normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0022", "report_id": "R0022", "question": "Explain my WBC result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0023", "report_id": "R0023", "question": "What does my report say about Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0023", "report_id": "R0023", "question": "What does my report say about lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0023", "report_id": "R0023", "question": "Is my bad cholesterol normal?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0024", "report_id": "R0024", "question": "What does my report say about MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0024", "report_id": "R0024", "question": "Is my PCV normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0024", "report_id": "R0024", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0025", "report_id": "R0025", "question": "What is my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0025", "report_id": "R0025", "question": "Should I be worried about my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0025", "report_id": "R0025", "question": "Should I be worried about my total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0026", "report_id": "R0026", "question": "What is my TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0026", "report_id": "R0026", "question": "Is my neutrophils normal?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0026", "report_id": "R0026", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0027", "report_id": "R0027", "question": "Explain my thyroid result.", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0027", "report_id": "R0027", "question": "What does my report say about RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0027", "report_id": "R0027", "question": "Should I be worried about my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0028", "report_id": "R0028", "question": "What is my hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0028", "report_id": "R0028", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0028", "report_id": "R0028", "question": "Is my WBC normal?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0029", "report_id": "R0029", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0029", "report_id": "R0029", "question": "What does my report say about good cholesterol?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0029", "report_id": "R0029", "question": "What is my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0030", "report_id": "R0030", "question": "What is my LDL?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0030", "report_id": "R0030", "question": "Explain my red blood cell count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0030", "report_id": "R0030", "question": "Should I be worried about my WBC?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0031", "report_id": "R0031", "question": "Should I be worried about my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0031", "report_id": "R0031", "question": "Should I be worried about my hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0031", "report_id": "R0031", "question": "What is my kidney creatinine?", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0032", "report_id": "R0032", "question": "What is my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0032", "report_id": "R0032", "question": "Should I be worried about my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0032", "report_id": "R0032", "question": "Should I be worried about my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0033", "report_id": "R0033", "question": "Is my eAG normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0033", "report_id": "R0033", "question": "Should I be worried about my fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0033", "report_id": "R0033", "question": "Explain my total cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0034", "report_id": "R0034", "question": "What does my report say about estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0034", "report_id": "R0034", "question": "Explain my fasting glucose result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0034", "report_id": "R0034", "question": "Explain my MCHC result.", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0035", "report_id": "R0035", "question": "Explain my PCV result.", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0035", "report_id": "R0035", "question": "What does my report say about fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0035", "report_id": "R0035", "question": "Explain my white blood cell count result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0036", "report_id": "R0036", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0036", "report_id": "R0036", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0036", "report_id": "R0036", "question": "Is my PCV normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0037", "report_id": "R0037", "question": "Should I be worried about my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0037", "report_id": "R0037", "question": "Is my fasting blood glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0037", "report_id": "R0037", "question": "Explain my creatinine result.", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0038", "report_id": "R0038", "question": "What does my report say about thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0038", "report_id": "R0038", "question": "What does my report say about eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0038", "report_id": "R0038", "question": "Should I be worried about my white blood cell count?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0039", "report_id": "R0039", "question": "What is my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0039", "report_id": "R0039", "question": "Explain my glycated hemoglobin result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0039", "report_id": "R0039", "question": "Explain my white blood cell count result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0040", "report_id": "R0040", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0040", "report_id": "R0040", "question": "Explain my estimated average glucose result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0040", "report_id": "R0040", "question": "Explain my TSH result.", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0041", "report_id": "R0041", "question": "What does my report say about MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0041", "report_id": "R0041", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0041", "report_id": "R0041", "question": "Should I be worried about my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0042", "report_id": "R0042", "question": "Should I be worried about my red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0042", "report_id": "R0042", "question": "Is my MCHC normal?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0042", "report_id": "R0042", "question": "Explain my platelets result.", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0043", "report_id": "R0043", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0043", "report_id": "R0043", "question": "Should I be worried about my total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0043", "report_id": "R0043", "question": "What does my report say about BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0044", "report_id": "R0044", "question": "Explain my haemoglobin result.", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0044", "report_id": "R0044", "question": "Explain my fasting glucose result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0044", "report_id": "R0044", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0045", "report_id": "R0045", "question": "What does my report say about eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0045", "report_id": "R0045", "question": "What is my fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0045", "report_id": "R0045", "question": "Explain my neutrophils result.", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0046", "report_id": "R0046", "question": "What does my report say about fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0046", "report_id": "R0046", "question": "What does my report say about glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0046", "report_id": "R0046", "question": "What is my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0047", "report_id": "R0047", "question": "Should I be worried about my total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0047", "report_id": "R0047", "question": "What does my report say about urea?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0047", "report_id": "R0047", "question": "Should I be worried about my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0048", "report_id": "R0048", "question": "Should I be worried about my fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0048", "report_id": "R0048", "question": "Is my estimated average glucose normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0048", "report_id": "R0048", "question": "What does my report say about BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0049", "report_id": "R0049", "question": "Is my eAG normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0049", "report_id": "R0049", "question": "Explain my HbA1c result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0049", "report_id": "R0049", "question": "Explain my BUN result.", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0050", "report_id": "R0050", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0050", "report_id": "R0050", "question": "Should I be worried about my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0050", "report_id": "R0050", "question": "Should I be worried about my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0051", "report_id": "R0051", "question": "Is my platelet count normal?", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0051", "report_id": "R0051", "question": "Is my triglycerides normal?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0051", "report_id": "R0051", "question": "What is my urea?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0052", "report_id": "R0052", "question": "What does my report say about TSH?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0052", "report_id": "R0052", "question": "What does my report say about LDL?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0052", "report_id": "R0052", "question": "Is my mean corpuscular volume normal?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0053", "report_id": "R0053", "question": "Is my fasting glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0053", "report_id": "R0053", "question": "What is my A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0053", "report_id": "R0053", "question": "What is my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0054", "report_id": "R0054", "question": "What does my report say about cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0054", "report_id": "R0054", "question": "Should I be worried about my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0054", "report_id": "R0054", "question": "Should I be worried about my WBC?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0055", "report_id": "R0055", "question": "Explain my hematocrit result.", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0055", "report_id": "R0055", "question": "Is my fasting blood glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0055", "report_id": "R0055", "question": "Explain my WBC result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0056", "report_id": "R0056", "question": "Should I be worried about my good cholesterol?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0056", "report_id": "R0056", "question": "Is my hematocrit normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0056", "report_id": "R0056", "question": "What is my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0057", "report_id": "R0057", "question": "What is my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0057", "report_id": "R0057", "question": "What does my report say about creatinine?", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0057", "report_id": "R0057", "question": "Explain my MCV result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0058", "report_id": "R0058", "question": "What is my total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0058", "report_id": "R0058", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0058", "report_id": "R0058", "question": "What is my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0059", "report_id": "R0059", "question": "Is my fasting sugar normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0059", "report_id": "R0059", "question": "What does my report say about TSH?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0059", "report_id": "R0059", "question": "Is my bad cholesterol normal?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0060", "report_id": "R0060", "question": "Is my total cholesterol normal?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0060", "report_id": "R0060", "question": "What does my report say about mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0060", "report_id": "R0060", "question": "Should I be worried about my creatinine?", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0061", "report_id": "R0061", "question": "What is my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0061", "report_id": "R0061", "question": "What does my report say about total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0061", "report_id": "R0061", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0062", "report_id": "R0062", "question": "What does my report say about hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0062", "report_id": "R0062", "question": "Is my haemoglobin normal?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0062", "report_id": "R0062", "question": "Should I be worried about my creatinine?", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0063", "report_id": "R0063", "question": "What does my report say about thyroid?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0063", "report_id": "R0063", "question": "Should I be worried about my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0063", "report_id": "R0063", "question": "What does my report say about total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0064", "report_id": "R0064", "question": "Is my 3-month average sugar normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0064", "report_id": "R0064", "question": "Should I be worried about my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0064", "report_id": "R0064", "question": "Should I be worried about my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0065", "report_id": "R0065", "question": "What does my report say about cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0065", "report_id": "R0065", "question": "What does my report say about LDL?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0065", "report_id": "R0065", "question": "Explain my red blood cell count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0066", "report_id": "R0066", "question": "What does my report say about MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0066", "report_id": "R0066", "question": "Explain my A1c result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0066", "report_id": "R0066", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0067", "report_id": "R0067", "question": "Should I be worried about my glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0067", "report_id": "R0067", "question": "Should I be worried about my WBC?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0067", "report_id": "R0067", "question": "Should I be worried about my platelets?", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0068", "report_id": "R0068", "question": "What does my report say about Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0068", "report_id": "R0068", "question": "What does my report say about glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0068", "report_id": "R0068", "question": "Explain my mean corpuscular volume result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0069", "report_id": "R0069", "question": "Is my HbA1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0069", "report_id": "R0069", "question": "Explain my MCV result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0069", "report_id": "R0069", "question": "Explain my red blood cell count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0070", "report_id": "R0070", "question": "What is my triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0070", "report_id": "R0070", "question": "Should I be worried about my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0070", "report_id": "R0070", "question": "Explain my platelets result.", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0071", "report_id": "R0071", "question": "What does my report say about fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0071", "report_id": "R0071", "question": "What does my report say about A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0071", "report_id": "R0071", "question": "What is my triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0072", "report_id": "R0072", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0072", "report_id": "R0072", "question": "Explain my fasting glucose result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0072", "report_id": "R0072", "question": "Is my LDL normal?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0073", "report_id": "R0073", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0073", "report_id": "R0073", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0073", "report_id": "R0073", "question": "What is my fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0074", "report_id": "R0074", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0074", "report_id": "R0074", "question": "Is my Hb level normal?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0074", "report_id": "R0074", "question": "Should I be worried about my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0075", "report_id": "R0075", "question": "What does my report say about hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0075", "report_id": "R0075", "question": "Should I be worried about my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0075", "report_id": "R0075", "question": "Is my neutrophils normal?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0076", "report_id": "R0076", "question": "Should I be worried about my hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0076", "report_id": "R0076", "question": "Should I be worried about my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0076", "report_id": "R0076", "question": "Is my urea normal?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0077", "report_id": "R0077", "question": "What is my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0077", "report_id": "R0077", "question": "Is my bad cholesterol normal?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0077", "report_id": "R0077", "question": "Is my haemoglobin normal?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0078", "report_id": "R0078", "question": "Should I be worried about my hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0078", "report_id": "R0078", "question": "Is my MCV normal?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0078", "report_id": "R0078", "question": "Is my good cholesterol normal?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0079", "report_id": "R0079", "question": "Explain my thyroid result.", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0079", "report_id": "R0079", "question": "What is my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0079", "report_id": "R0079", "question": "Should I be worried about my HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0080", "report_id": "R0080", "question": "Is my LDL normal?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0080", "report_id": "R0080", "question": "Should I be worried about my total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0080", "report_id": "R0080", "question": "What is my thyroid?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0081", "report_id": "R0081", "question": "Is my cholesterol normal?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0081", "report_id": "R0081", "question": "What is my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0081", "report_id": "R0081", "question": "Should I be worried about my red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0082", "report_id": "R0082", "question": "What does my report say about glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0082", "report_id": "R0082", "question": "What does my report say about TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0082", "report_id": "R0082", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0083", "report_id": "R0083", "question": "Explain my estimated average glucose result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0083", "report_id": "R0083", "question": "Is my MCHC normal?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0083", "report_id": "R0083", "question": "Should I be worried about my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0084", "report_id": "R0084", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0084", "report_id": "R0084", "question": "What does my report say about Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0084", "report_id": "R0084", "question": "Is my BUN normal?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0085", "report_id": "R0085", "question": "What is my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0085", "report_id": "R0085", "question": "What is my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0085", "report_id": "R0085", "question": "What does my report say about BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0086", "report_id": "R0086", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0086", "report_id": "R0086", "question": "What is my PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0086", "report_id": "R0086", "question": "What is my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0087", "report_id": "R0087", "question": "What does my report say about MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0087", "report_id": "R0087", "question": "Explain my creatinine result.", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0087", "report_id": "R0087", "question": "What is my urea?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0088", "report_id": "R0088", "question": "What is my red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0088", "report_id": "R0088", "question": "What is my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0088", "report_id": "R0088", "question": "Should I be worried about my LDL?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0089", "report_id": "R0089", "question": "What does my report say about estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0089", "report_id": "R0089", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0089", "report_id": "R0089", "question": "What does my report say about neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0090", "report_id": "R0090", "question": "Should I be worried about my good cholesterol?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0090", "report_id": "R0090", "question": "Should I be worried about my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0090", "report_id": "R0090", "question": "Explain my platelet count result.", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0091", "report_id": "R0091", "question": "Should I be worried about my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0091", "report_id": "R0091", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0091", "report_id": "R0091", "question": "Explain my BUN result.", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0092", "report_id": "R0092", "question": "Is my fasting blood glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0092", "report_id": "R0092", "question": "What is my 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0092", "report_id": "R0092", "question": "Explain my thyroid result.", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0093", "report_id": "R0093", "question": "What does my report say about cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0093", "report_id": "R0093", "question": "Should I be worried about my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0093", "report_id": "R0093", "question": "Explain my lymphocytes result.", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0094", "report_id": "R0094", "question": "Should I be worried about my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0094", "report_id": "R0094", "question": "Should I be worried about my good cholesterol?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0094", "report_id": "R0094", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0095", "report_id": "R0095", "question": "Is my cholesterol normal?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0095", "report_id": "R0095", "question": "What does my report say about fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0095", "report_id": "R0095", "question": "Is my TSH normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0096", "report_id": "R0096", "question": "Should I be worried about my 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0096", "report_id": "R0096", "question": "Should I be worried about my fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0096", "report_id": "R0096", "question": "Explain my WBC result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0097", "report_id": "R0097", "question": "What is my glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0097", "report_id": "R0097", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0097", "report_id": "R0097", "question": "What is my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0098", "report_id": "R0098", "question": "Should I be worried about my A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0098", "report_id": "R0098", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0098", "report_id": "R0098", "question": "What is my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0099", "report_id": "R0099", "question": "What does my report say about bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0099", "report_id": "R0099", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0099", "report_id": "R0099", "question": "Is my MCHC normal?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0100", "report_id": "R0100", "question": "Is my LDL normal?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0100", "report_id": "R0100", "question": "Explain my cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0100", "report_id": "R0100", "question": "What is my BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0101", "report_id": "R0101", "question": "What is my HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0101", "report_id": "R0101", "question": "What is my fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0101", "report_id": "R0101", "question": "Explain my Hb level result.", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0102", "report_id": "R0102", "question": "What is my 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0102", "report_id": "R0102", "question": "What does my report say about MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0102", "report_id": "R0102", "question": "What does my report say about WBC?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0103", "report_id": "R0103", "question": "Explain my creatinine result.", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0103", "report_id": "R0103", "question": "What is my urea?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0103", "report_id": "R0103", "question": "Is my TSH normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0104", "report_id": "R0104", "question": "Is my glycated hemoglobin normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0104", "report_id": "R0104", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0104", "report_id": "R0104", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0105", "report_id": "R0105", "question": "What is my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0105", "report_id": "R0105", "question": "Should I be worried about my A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0105", "report_id": "R0105", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0106", "report_id": "R0106", "question": "Should I be worried about my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0106", "report_id": "R0106", "question": "Should I be worried about my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0106", "report_id": "R0106", "question": "Should I be worried about my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0107", "report_id": "R0107", "question": "What is my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0107", "report_id": "R0107", "question": "What is my PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0107", "report_id": "R0107", "question": "Is my TSH normal?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0108", "report_id": "R0108", "question": "What is my BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0108", "report_id": "R0108", "question": "Explain my platelets result.", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0108", "report_id": "R0108", "question": "What is my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0109", "report_id": "R0109", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0109", "report_id": "R0109", "question": "Explain my cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0109", "report_id": "R0109", "question": "What does my report say about hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0110", "report_id": "R0110", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0110", "report_id": "R0110", "question": "What is my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0110", "report_id": "R0110", "question": "Explain my red blood cell count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0111", "report_id": "R0111", "question": "What is my eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0111", "report_id": "R0111", "question": "Should I be worried about my fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0111", "report_id": "R0111", "question": "Explain my total cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0112", "report_id": "R0112", "question": "What does my report say about total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0112", "report_id": "R0112", "question": "Explain my hemoglobin result.", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0112", "report_id": "R0112", "question": "Is my neutrophils normal?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0113", "report_id": "R0113", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0113", "report_id": "R0113", "question": "Explain my bad cholesterol result.", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0113", "report_id": "R0113", "question": "What does my report say about fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0114", "report_id": "R0114", "question": "Explain my estimated average glucose result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0114", "report_id": "R0114", "question": "Explain my fasting glucose result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0114", "report_id": "R0114", "question": "Should I be worried about my TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0115", "report_id": "R0115", "question": "What is my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0115", "report_id": "R0115", "question": "What does my report say about lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0115", "report_id": "R0115", "question": "What is my hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0116", "report_id": "R0116", "question": "Is my HbA1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0116", "report_id": "R0116", "question": "What is my fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0116", "report_id": "R0116", "question": "What does my report say about neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0117", "report_id": "R0117", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0117", "report_id": "R0117", "question": "What does my report say about RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0117", "report_id": "R0117", "question": "Is my white blood cell count normal?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0118", "report_id": "R0118", "question": "What does my report say about estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0118", "report_id": "R0118", "question": "What is my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0118", "report_id": "R0118", "question": "Is my creatinine normal?", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0119", "report_id": "R0119", "question": "What is my haemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0119", "report_id": "R0119", "question": "Should I be worried about my red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0119", "report_id": "R0119", "question": "Is my white blood cell count normal?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0120", "report_id": "R0120", "question": "What does my report say about 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0120", "report_id": "R0120", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0120", "report_id": "R0120", "question": "Should I be worried about my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0121", "report_id": "R0121", "question": "What does my report say about fasting blood glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0121", "report_id": "R0121", "question": "Should I be worried about my HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0121", "report_id": "R0121", "question": "What does my report say about BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0122", "report_id": "R0122", "question": "Explain my total cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0122", "report_id": "R0122", "question": "What does my report say about triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0122", "report_id": "R0122", "question": "What is my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0123", "report_id": "R0123", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0123", "report_id": "R0123", "question": "Should I be worried about my white blood cell count?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0123", "report_id": "R0123", "question": "What does my report say about MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0124", "report_id": "R0124", "question": "Should I be worried about my hematocrit?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0124", "report_id": "R0124", "question": "Explain my 3-month average sugar result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0124", "report_id": "R0124", "question": "What does my report say about TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0125", "report_id": "R0125", "question": "What is my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0125", "report_id": "R0125", "question": "What is my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0125", "report_id": "R0125", "question": "Explain my platelet count result.", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0126", "report_id": "R0126", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0126", "report_id": "R0126", "question": "What is my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0126", "report_id": "R0126", "question": "What does my report say about kidney creatinine?", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0127", "report_id": "R0127", "question": "What does my report say about triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0127", "report_id": "R0127", "question": "Explain my neutrophils result.", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0127", "report_id": "R0127", "question": "Explain my kidney creatinine result.", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0128", "report_id": "R0128", "question": "Should I be worried about my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0128", "report_id": "R0128", "question": "What does my report say about bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0128", "report_id": "R0128", "question": "Is my BUN normal?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0129", "report_id": "R0129", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0129", "report_id": "R0129", "question": "Explain my cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0129", "report_id": "R0129", "question": "Should I be worried about my urea?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0130", "report_id": "R0130", "question": "Should I be worried about my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0130", "report_id": "R0130", "question": "What is my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0130", "report_id": "R0130", "question": "Explain my MCV result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0131", "report_id": "R0131", "question": "What is my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0131", "report_id": "R0131", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0131", "report_id": "R0131", "question": "What does my report say about estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0132", "report_id": "R0132", "question": "Should I be worried about my HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0132", "report_id": "R0132", "question": "Is my fasting blood glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0132", "report_id": "R0132", "question": "Explain my mean corpuscular volume result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0133", "report_id": "R0133", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0133", "report_id": "R0133", "question": "What does my report say about Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0133", "report_id": "R0133", "question": "Is my triglycerides normal?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0134", "report_id": "R0134", "question": "Should I be worried about my glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0134", "report_id": "R0134", "question": "Should I be worried about my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0134", "report_id": "R0134", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0135", "report_id": "R0135", "question": "What does my report say about RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0135", "report_id": "R0135", "question": "Is my triglycerides normal?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0135", "report_id": "R0135", "question": "What does my report say about TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0136", "report_id": "R0136", "question": "What is my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0136", "report_id": "R0136", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0136", "report_id": "R0136", "question": "Explain my urea result.", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0137", "report_id": "R0137", "question": "Explain my fasting glucose result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0137", "report_id": "R0137", "question": "Explain my 3-month average sugar result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0137", "report_id": "R0137", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0138", "report_id": "R0138", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0138", "report_id": "R0138", "question": "Is my cholesterol normal?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0138", "report_id": "R0138", "question": "Explain my hemoglobin result.", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0139", "report_id": "R0139", "question": "What does my report say about thyroid?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0139", "report_id": "R0139", "question": "What does my report say about kidney creatinine?", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0139", "report_id": "R0139", "question": "Is my cholesterol normal?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0140", "report_id": "R0140", "question": "Is my hematocrit normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0140", "report_id": "R0140", "question": "What does my report say about cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0140", "report_id": "R0140", "question": "What is my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0141", "report_id": "R0141", "question": "Is my PCV normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0141", "report_id": "R0141", "question": "What is my MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0141", "report_id": "R0141", "question": "Should I be worried about my WBC?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0142", "report_id": "R0142", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0142", "report_id": "R0142", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0142", "report_id": "R0142", "question": "Explain my white blood cell count result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0143", "report_id": "R0143", "question": "What is my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0143", "report_id": "R0143", "question": "Explain my mean corpuscular volume result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0143", "report_id": "R0143", "question": "What does my report say about platelet count?", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0144", "report_id": "R0144", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0144", "report_id": "R0144", "question": "Is my lymphocytes normal?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0144", "report_id": "R0144", "question": "Explain my total cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0145", "report_id": "R0145", "question": "Is my thyroid normal?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0145", "report_id": "R0145", "question": "Should I be worried about my WBC?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0145", "report_id": "R0145", "question": "Explain my HbA1c result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0146", "report_id": "R0146", "question": "What is my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0146", "report_id": "R0146", "question": "Should I be worried about my white blood cell count?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0146", "report_id": "R0146", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0147", "report_id": "R0147", "question": "What does my report say about thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0147", "report_id": "R0147", "question": "What does my report say about MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0147", "report_id": "R0147", "question": "Explain my bad cholesterol result.", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0148", "report_id": "R0148", "question": "Is my mean corpuscular volume normal?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0148", "report_id": "R0148", "question": "Explain my lymphocytes result.", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0148", "report_id": "R0148", "question": "What does my report say about TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0149", "report_id": "R0149", "question": "What is my red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0149", "report_id": "R0149", "question": "What does my report say about PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0149", "report_id": "R0149", "question": "Explain my MCHC result.", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0150", "report_id": "R0150", "question": "Should I be worried about my HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0150", "report_id": "R0150", "question": "Explain my fasting glucose result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0150", "report_id": "R0150", "question": "Is my bad cholesterol normal?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0151", "report_id": "R0151", "question": "What does my report say about eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0151", "report_id": "R0151", "question": "What does my report say about HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0151", "report_id": "R0151", "question": "Is my platelets normal?", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0152", "report_id": "R0152", "question": "Is my fasting sugar normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0152", "report_id": "R0152", "question": "What does my report say about MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0152", "report_id": "R0152", "question": "Is my hematocrit normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0153", "report_id": "R0153", "question": "What is my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0153", "report_id": "R0153", "question": "Explain my cholesterol result.", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0153", "report_id": "R0153", "question": "Should I be worried about my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0154", "report_id": "R0154", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0154", "report_id": "R0154", "question": "What does my report say about HDL?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0154", "report_id": "R0154", "question": "Is my red blood cell count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0155", "report_id": "R0155", "question": "Is my bad cholesterol normal?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0155", "report_id": "R0155", "question": "What is my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0155", "report_id": "R0155", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0156", "report_id": "R0156", "question": "What is my TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0156", "report_id": "R0156", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0156", "report_id": "R0156", "question": "Is my creatinine normal?", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0157", "report_id": "R0157", "question": "What is my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0157", "report_id": "R0157", "question": "Should I be worried about my 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0157", "report_id": "R0157", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0158", "report_id": "R0158", "question": "What does my report say about A1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0158", "report_id": "R0158", "question": "Is my hematocrit normal?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0158", "report_id": "R0158", "question": "What does my report say about red blood cell count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0159", "report_id": "R0159", "question": "What does my report say about HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0159", "report_id": "R0159", "question": "What does my report say about Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0159", "report_id": "R0159", "question": "Should I be worried about my LDL?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0160", "report_id": "R0160", "question": "Explain my bad cholesterol result.", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0160", "report_id": "R0160", "question": "What does my report say about cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0160", "report_id": "R0160", "question": "Is my Hb level normal?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0161", "report_id": "R0161", "question": "Explain my red blood cell count result.", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0161", "report_id": "R0161", "question": "Should I be worried about my PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0161", "report_id": "R0161", "question": "Explain my HbA1c result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0162", "report_id": "R0162", "question": "Is my bad cholesterol normal?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0162", "report_id": "R0162", "question": "What is my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0162", "report_id": "R0162", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0163", "report_id": "R0163", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0163", "report_id": "R0163", "question": "Explain my mean corpuscular volume result.", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0163", "report_id": "R0163", "question": "What is my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0164", "report_id": "R0164", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0164", "report_id": "R0164", "question": "Is my HbA1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0164", "report_id": "R0164", "question": "Explain my MCHC result.", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0165", "report_id": "R0165", "question": "Should I be worried about my thyroid?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0165", "report_id": "R0165", "question": "What does my report say about good cholesterol?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0165", "report_id": "R0165", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0166", "report_id": "R0166", "question": "Is my fasting glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0166", "report_id": "R0166", "question": "What does my report say about total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0166", "report_id": "R0166", "question": "What is my platelets?", "gold_test": "Platelet Count", "gold_page": 1}
+{"patient_id": "P0167", "report_id": "R0167", "question": "What is my Hb level?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0167", "report_id": "R0167", "question": "Should I be worried about my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0167", "report_id": "R0167", "question": "What does my report say about triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0168", "report_id": "R0168", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0168", "report_id": "R0168", "question": "Should I be worried about my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0168", "report_id": "R0168", "question": "What is my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0169", "report_id": "R0169", "question": "What is my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0169", "report_id": "R0169", "question": "Explain my fasting sugar result.", "gold_test": "Fasting Plasma Glucose", "gold_page": 2}
+{"patient_id": "P0169", "report_id": "R0169", "question": "Explain my hemoglobin result.", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0170", "report_id": "R0170", "question": "Should I be worried about my creatinine?", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0170", "report_id": "R0170", "question": "What is my white blood cell count?", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0170", "report_id": "R0170", "question": "What is my MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0171", "report_id": "R0171", "question": "What is my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0171", "report_id": "R0171", "question": "What is my triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0171", "report_id": "R0171", "question": "Is my lymphocytes normal?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0172", "report_id": "R0172", "question": "What is my HbA1c?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0172", "report_id": "R0172", "question": "Should I be worried about my eAG?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0172", "report_id": "R0172", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0173", "report_id": "R0173", "question": "Explain my MCHC result.", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0173", "report_id": "R0173", "question": "Explain my haemoglobin result.", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0173", "report_id": "R0173", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0174", "report_id": "R0174", "question": "Is my estimated average glucose normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0174", "report_id": "R0174", "question": "What is my glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0174", "report_id": "R0174", "question": "What does my report say about lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0175", "report_id": "R0175", "question": "What is my TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0175", "report_id": "R0175", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0175", "report_id": "R0175", "question": "What does my report say about BUN?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0176", "report_id": "R0176", "question": "Explain my BUN result.", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 2}
+{"patient_id": "P0176", "report_id": "R0176", "question": "What does my report say about good cholesterol?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0176", "report_id": "R0176", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0177", "report_id": "R0177", "question": "Explain my good cholesterol result.", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0177", "report_id": "R0177", "question": "Explain my bad cholesterol result.", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0177", "report_id": "R0177", "question": "Is my MCHC normal?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0178", "report_id": "R0178", "question": "Should I be worried about my lymphocytes?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0178", "report_id": "R0178", "question": "What does my report say about HDL?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0178", "report_id": "R0178", "question": "Is my kidney creatinine normal?", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0179", "report_id": "R0179", "question": "What does my report say about urea?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0179", "report_id": "R0179", "question": "What is my LDL?", "gold_test": "LDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0179", "report_id": "R0179", "question": "What does my report say about 3-month average sugar?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0180", "report_id": "R0180", "question": "Is my fasting glucose normal?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0180", "report_id": "R0180", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0180", "report_id": "R0180", "question": "What is my cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 2}
+{"patient_id": "P0181", "report_id": "R0181", "question": "What does my report say about triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0181", "report_id": "R0181", "question": "What does my report say about MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0181", "report_id": "R0181", "question": "Explain my estimated average glucose result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0182", "report_id": "R0182", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0182", "report_id": "R0182", "question": "What is my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0182", "report_id": "R0182", "question": "Explain my triglycerides result.", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0183", "report_id": "R0183", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0183", "report_id": "R0183", "question": "Should I be worried about my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0183", "report_id": "R0183", "question": "Is my HbA1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 3}
+{"patient_id": "P0184", "report_id": "R0184", "question": "What does my report say about MCV?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0184", "report_id": "R0184", "question": "Should I be worried about my MCHC?", "gold_test": "MCHC", "gold_page": 1}
+{"patient_id": "P0184", "report_id": "R0184", "question": "What is my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0185", "report_id": "R0185", "question": "Is my RBC count normal?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0185", "report_id": "R0185", "question": "Is my lymphocytes normal?", "gold_test": "Lymphocytes", "gold_page": 1}
+{"patient_id": "P0185", "report_id": "R0185", "question": "What is my TSH?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0186", "report_id": "R0186", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0186", "report_id": "R0186", "question": "What is my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0186", "report_id": "R0186", "question": "Should I be worried about my mean corpuscular volume?", "gold_test": "MCV", "gold_page": 1}
+{"patient_id": "P0187", "report_id": "R0187", "question": "What is my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0187", "report_id": "R0187", "question": "Explain my kidney creatinine result.", "gold_test": "Serum Creatinine", "gold_page": 3}
+{"patient_id": "P0187", "report_id": "R0187", "question": "Explain my eAG result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0188", "report_id": "R0188", "question": "What does my report say about glycated hemoglobin?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0188", "report_id": "R0188", "question": "Should I be worried about my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0188", "report_id": "R0188", "question": "Should I be worried about my total cholesterol?", "gold_test": "Total Cholesterol", "gold_page": 3}
+{"patient_id": "P0189", "report_id": "R0189", "question": "Should I be worried about my thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0189", "report_id": "R0189", "question": "What does my report say about kidney creatinine?", "gold_test": "Serum Creatinine", "gold_page": 2}
+{"patient_id": "P0189", "report_id": "R0189", "question": "Should I be worried about my hemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0190", "report_id": "R0190", "question": "Should I be worried about my fasting sugar?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0190", "report_id": "R0190", "question": "Should I be worried about my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0190", "report_id": "R0190", "question": "Should I be worried about my HDL?", "gold_test": "HDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0191", "report_id": "R0191", "question": "Is my MCH normal?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0191", "report_id": "R0191", "question": "Should I be worried about my triglycerides?", "gold_test": "Triglycerides", "gold_page": 2}
+{"patient_id": "P0191", "report_id": "R0191", "question": "Explain my WBC result.", "gold_test": "Total WBC Count", "gold_page": 1}
+{"patient_id": "P0192", "report_id": "R0192", "question": "Explain my neutrophils result.", "gold_test": "Neutrophils", "gold_page": 1}
+{"patient_id": "P0192", "report_id": "R0192", "question": "Is my urea normal?", "gold_test": "Blood Urea Nitrogen (BUN)", "gold_page": 3}
+{"patient_id": "P0192", "report_id": "R0192", "question": "What is my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0193", "report_id": "R0193", "question": "Should I be worried about my haemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0193", "report_id": "R0193", "question": "What does my report say about MCH?", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0193", "report_id": "R0193", "question": "Should I be worried about my TSH?", "gold_test": "TSH", "gold_page": 3}
+{"patient_id": "P0194", "report_id": "R0194", "question": "What is my fasting glucose?", "gold_test": "Fasting Plasma Glucose", "gold_page": 3}
+{"patient_id": "P0194", "report_id": "R0194", "question": "What does my report say about thyroid?", "gold_test": "TSH", "gold_page": 2}
+{"patient_id": "P0194", "report_id": "R0194", "question": "What does my report say about triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0195", "report_id": "R0195", "question": "Is my eAG normal?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0195", "report_id": "R0195", "question": "Explain my HbA1c result.", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0195", "report_id": "R0195", "question": "Should I be worried about my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0196", "report_id": "R0196", "question": "Is my hemoglobin normal?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0196", "report_id": "R0196", "question": "Should I be worried about my RBC count?", "gold_test": "RBC Count", "gold_page": 1}
+{"patient_id": "P0196", "report_id": "R0196", "question": "What is my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 3}
+{"patient_id": "P0197", "report_id": "R0197", "question": "Explain my estimated average glucose result.", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0197", "report_id": "R0197", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0197", "report_id": "R0197", "question": "What does my report say about bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0198", "report_id": "R0198", "question": "What is my estimated average glucose?", "gold_test": "Estimated Average Glucose (eAG)", "gold_page": 2}
+{"patient_id": "P0198", "report_id": "R0198", "question": "Is my A1c normal?", "gold_test": "HbA1c (Glycated Hemoglobin)", "gold_page": 2}
+{"patient_id": "P0198", "report_id": "R0198", "question": "What does my report say about triglycerides?", "gold_test": "Triglycerides", "gold_page": 3}
+{"patient_id": "P0199", "report_id": "R0199", "question": "Explain my MCH result.", "gold_test": "MCH", "gold_page": 1}
+{"patient_id": "P0199", "report_id": "R0199", "question": "Should I be worried about my haemoglobin?", "gold_test": "Hemoglobin", "gold_page": 1}
+{"patient_id": "P0199", "report_id": "R0199", "question": "What does my report say about HDL?", "gold_test": "HDL Cholesterol", "gold_page": 2}
+{"patient_id": "P0200", "report_id": "R0200", "question": "What is my bad cholesterol?", "gold_test": "LDL Cholesterol", "gold_page": 3}
+{"patient_id": "P0200", "report_id": "R0200", "question": "Should I be worried about my PCV?", "gold_test": "Hematocrit (PCV)", "gold_page": 1}
+{"patient_id": "P0200", "report_id": "R0200", "question": "What is my neutrophils?", "gold_test": "Neutrophils", "gold_page": 1}
