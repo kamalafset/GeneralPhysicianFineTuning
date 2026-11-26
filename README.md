@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # General Physician Medical Report Assistant
 
 A Streamlit-based Retrieval-Augmented Generation (RAG) prototype. Users upload **synthetic** patient lab reports (PDF), and then ask natural-language questions about them. Answers are grounded in the stored reports and shown with the source report name, page and report date.
@@ -640,3 +641,7 @@ uv run pytest tests -q                   # run all tests
 - **Output safety:** model/report text is markdown-escaped before display.
 - **Not medical advice.** The assistant reports what the documents say; it does not diagnose or recommend treatment and is no substitute for a physician.
 - **No claims** of HIPAA compliance, production readiness, audit logging, encryption at rest, or complete patient isolation are made.
+=======
+# GeneralPhysicianFineTuning
+General Physician Fine Tuning 
+>>>>>>> b9fe472ce523773e041eb84d03e70d5fa8a28c6c
